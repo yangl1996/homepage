@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <title>Lei's Web | Stay hungry, stal foolish.</title>
+    <title>Lei's Web by yangl1996</title>
 
     <link rel="stylesheet" href="stylesheets/styles.css">
     <link rel="stylesheet" href="stylesheets/pygment_trac.css">
@@ -50,13 +50,59 @@
 <a name="aprs-weather-box" class="anchor" href="#aprs-weather-box"><span class="octicon octicon-link"></span></a>APRS Weather Box</h2>
 
 <h3>
-<a name="about-aprs-weather-box" class="anchor" href="#about-aprs-weather-box"><span class="octicon octicon-link"></span></a>About APRS Weather Box</h3>
+<a name="brief-introduction" class="anchor" href="#brief-introduction"><span class="octicon octicon-link"></span></a>Brief Introduction</h3>
 
 <p>APRS is an open AX.25 (an amateur radio packet data transfer protocol) network started by Bob (WB4APR) and now operated by amateur radio operators (also known as HAMs) all over the world.</p>
 
 <p>This project turns an Arduino board into a simple weather station which collects temperature, humidity and barometric pressure. It sends data every 10 minutes to the APRS-IS (Internet Service) server. All you need to build a weather station are an Arduino board, a W5100 Ethernet Shield, a DHT21 temp/humidity sensor and a BMP085 barometric pressure sensor. For detailed info about building and troubleshooting, feel free to contact me.</p>
 
 <p>The code of this project is coded by Weng Kai (BA5AG) and me. The source code is on <a href="https://github.com/yangl1996/aprswxbox">GitHub</a>.</p>
+
+<h3>
+<a name="preparation-for-a-weather-station" class="anchor" href="#preparation-for-a-weather-station"><span class="octicon octicon-link"></span></a>Preparation for a Weather Station</h3>
+
+<ul>
+<li>a Mac or a PC</li>
+<li>Arduino IDE (ver 1.00 or later) installed on your computer</li>
+<li>a USB cable</li>
+<li>a router</li>
+<li>a power supply</li>
+<li>an Arduino board</li>
+<li>an W5100 Ethernet Shield</li>
+<li>a DHT21 sensor</li>
+<li>a BMP085 sensor</li>
+</ul><h3>
+<a name="setting-up-guide" class="anchor" href="#setting-up-guide"><span class="octicon octicon-link"></span></a>Setting-up guide</h3>
+
+<p>Setting up an APRS Weather station is as easy as connecting a few wires. It's quite simple. It takes about 15 minutes to complete the whole process following this guide.</p>
+
+<p>First, plug the Ethernet Shield on the Arduino. Connect the Arduino to a computer and load the code. You need to modify the code to make it sending beacons with your callsign and location. Edit "callsign", "passcode" and "location". "Passcode" is a unique 5-dig number that is only valid with your callsign to ensure your identity of an amateur radio operator. If you haven't got one, there're many HAMs who provide free passcode calculating. As for location, you may check Google Maps or other map service. Be sure to input your location in the correct format (like the default location in the code). Change the APRS-IS server when necessary (e.g. when the default server is down).</p>
+
+<p>Then, link the two sensors to proper pins shown in the connection graph. You may take necessary measures to avoid unexpected disconnection.</p>
+
+<p>Third, connect the Weather Box to your router or switch. Turn on the power. Check if your station "CALLSIGN-13" is shown properly on the APRS-IS network (e.g. check aprs.fi and search for your callsign). It it appears, congratulations! If not, try to follow the troubleshooting guide below.</p>
+
+<h3>
+<a name="troubleshooting" class="anchor" href="#troubleshooting"><span class="octicon octicon-link"></span></a>Troubleshooting</h3>
+
+<p>If your Weather Box doesn't work or doesn't work properly, try to follow these detailed steps.</p>
+
+<ol>
+<li>Connect your Weather Box to your computer with Ethernet cable plugged in.</li>
+<li>Open Serial Monitor in the Arduino IDE.</li>
+<li>Turn on the power.</li>
+<li>Check the message shown in the Serial Moniter window. </li>
+</ol><ul>
+<li>If it is related to connection failure, check if the server address is correct.</li>
+<li>Messages related to logging failure may be result of incorrect callsign and passcode.</li>
+<li>If a "DHT Failure" or "BMP Failure" message is shown, check the sensor connection. A broken wire is a common cause.</li>
+<li>As for "Init Failure", it means Weather Box cannot automatically get IP address from your router. Check if the DHCP function on your router is on.</li>
+</ul><p>If you are still stuck in problems not mentioned above, feel free to contact me.</p>
+
+<h3>
+<a name="resources" class="anchor" href="#resources"><span class="octicon octicon-link"></span></a>Resources</h3>
+
+<p>A connection graph and the source code are provided on GitHub. Check them out <a href="https://github.com/yangl1996/aprswxbox">HERE</a>.</p>
 
 <h3>
 <a name="aprs-wx-box-" class="anchor" href="#aprs-wx-box-"><span class="octicon octicon-link"></span></a>APRS WX Box 简介</h3>
@@ -66,6 +112,8 @@
 <p>此项目利用Arduino制作一个简易的APRS气象站。气象站收集温度、湿度、气压数据并每十分钟上传到APRS-IS服务器。制作一个APRS Weather Box只需要一块Arduino、一块W5100盾板、一个DHT21传感器和一个BMP085传感器。需要更多信息，请与我联系。</p>
 
 <p>项目代码由翁恺（BA5AG）和我编写。源代码已经放在<a href="https://github.com/yangl1996/aprswxbox">GitHub</a>上。</p>
+
+<p>英文版的安装说明见上方。</p>
       </section>
       <footer>
         <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
