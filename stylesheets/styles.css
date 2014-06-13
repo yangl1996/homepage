@@ -1,4 +1,5 @@
 @import url(https://fonts.useso.com/css?family=Lato:300italic,700italic,300,700);
+/*Using useso instead of Google Fonts to gain stablity. original: fonts.googleapis.com */
 
 body {
   padding:50px;
