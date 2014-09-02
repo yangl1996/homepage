@@ -1,0 +1,11 @@
+---
+title: WikiHack
+project: True
+layout: minimal_project
+introduction: Trying to dig out connections between Wikipedia entries.
+---
+This project is being carried out by [Jueast](http://jueast.com), winniezhou and me.
+
+We try to find connections between Wikipedia entries. By doing so, we will have a better understanding the learning process and make a best way of learning.
+
+You may want to read code at GitHub, please follow [this link](https://github.com/yangl1996/WikiHack).
