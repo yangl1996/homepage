@@ -1,0 +1,12 @@
+title: Lei's Web
+tagline: Stay hungry, stay foolish.
+owner: Lei Yang
+link: http://www.yangl1996.com
+copyright: Copyright Lei Yang 2010-2014
+
+
+pygments: true
+permalink: '/:title'
+markdown: kramdown
+
+exclude: [README.md]
