@@ -1,35 +1,9 @@
 ---
 layout: minimal_default 
-title: Lei’s web 
+title: Lei’s web | Stay hungry, stay foolish.
 ---
 
-{% for post in site.posts %}
-    {% if post.noindex == True %}
-        {% if post.file %}
-            <a href="/static/pdfs/{{ post.file }}">
-                <img src="/static/pdf32.png" align="right">
-            </a>
-        {% endif %}
-        <a href="{{ post.url }}">{{ post.title }}</a></br>
-        <span class="index_date"> {{ post.date | date_to_long_string }}</span>
-        {% if post.comments %}
-            | <a href="{{ post.url }}#disqus_thread">{{ post.title }}</a>
-        {% endif %}
-        {% if post.introduction %}
-            </br>
-            {{ post.introduction }}
-        {% endif %}
-        {% if post.icon %}
-            <img src="{{ post.icon }}" width="75%">
-        {% endif %}
-        {% if post.introduction or post.icon %}
-            <p align="right"><a href="{{ post.url }}">Keep reading...</a></p>
-        {% else %}
-            </br></br>
-        {% endif %}
-        <hr/>
-    {% endif %}
-{% endfor %}
+
 
 
         <script type="text/javascript">
