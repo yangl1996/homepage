@@ -1,5 +1,6 @@
 ---
 layout: minimal_project
+projet: True
 title: APRS Weather Box
 introduction: A simple arduino project collecting weather data and sending as APRS beacons.
 ---
