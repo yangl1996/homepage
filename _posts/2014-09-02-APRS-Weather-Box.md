@@ -49,10 +49,10 @@ If your Weather Box doesn't work or doesn't work properly, try to follow these i
 3. Turn on the power.
 4. Check the message shown in the Serial Moniter window.
 
-*DHT fail - The DHT sensor fails or there are some connection errors with your sensor. Check the connection or replace the sensor.
-*Can not connect to the server - The Box can't connect to the APRS-IS server. Check the network connection and whether you entered the correct APRS-IS server address.
-*No prompt from the server - The server is down. Maybe try again later.
-*Login failed - Can't login to the server. Check the call sign and the passcode.
+* DHT fail - The DHT sensor fails or there are some connection errors with your sensor. Check the connection or replace the sensor.
+* Can not connect to the server - The Box can't connect to the APRS-IS server. Check the network connection and whether you entered the correct APRS-IS server address.
+* No prompt from the server - The server is down. Maybe try again later.
+* Login failed - Can't login to the server. Check the call sign and the passcode.
 
 If you are still stuck with Weather Box, feel free to contact me.
 
