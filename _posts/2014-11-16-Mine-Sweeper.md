@@ -8,3 +8,12 @@ Mine Sweeper is a simple game. The program generates random mine distribution an
 the mines using the given hints. If he makes an error and step on a mine, the game is over.
 
 This is an assignment of my curriculum *Introduction to Computation* in my freshman year.
+
+Main functions include:
+
+* the Mine Sweeping game
+* Game archive
+* timer
+* control using array keys
+* a menu
+* adjustable game difficulty
