@@ -2,6 +2,11 @@
 
 <section>
     <h1>{{ page.title }}</h1>
+    {% if post.ghlink %}
+    <a href="{{ page.ghlink }}">
+         <img src="/static/ghicon.png" align="right">
+    </a>
+    {% endif %}
     {% if page.introduction %}
         <p> {{page.introduction }}
     {% endif %}
