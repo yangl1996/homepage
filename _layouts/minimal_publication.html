@@ -4,15 +4,15 @@
     <a href="/static/pdfs/{{ page.file }}">
         <img src="/static/pdf.png" align="right">
     </a>
-    <h3>{{ page.journal }}</h3></br></br>
+    {{ page.journal }}</br></br>
     {% if page.authors %}
-        <h4>Authors</h4>: {{ page.authors }}</br>
+        Authors: {{ page.authors }}</br>
     {% endif %}
     {% if page.school %}
-        <h4>School</h4>: {{ page.school }}</br>
+        School: {{ page.school }}</br>
     {% endif %}
     {% if page.date %}
-        <h4>Publication Date</h4>: {{ page.date | date_to_long_string }}</br>
+        Publication Date: {{ page.date | date_to_long_string }}</br>
     {% endif %}
     <hr>
     {{ content }}
