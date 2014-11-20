@@ -1,0 +1,21 @@
+---
+layout: minimal_default
+title: Lei's Web | Publications
+noindex: True
+---
+<h1>Publications</h1>
+<p>These are my theses and publications.</p>
+{% for post in site.posts %}
+    {% if post.publication %}
+    {% if post.file %}
+        <img src="/static/pdf32.png" align="right">
+    {% endif %}
+    <a href="{{ post.url }}">{{ post.title }}</a></br>
+    <span class="index_date"> {{ post.date | date_to_long_string }}</span>
+    {% if post.journal %}
+      {{ post.journal }}
+    {% endif %}
+    </br></br>
+    <hr/>
+    {% endif %}
+{% endfor %}
