@@ -7,7 +7,7 @@ noindex: True
 <p>The following is a list of my projects.</p>
 {% for post in site.posts %}
     {% if post.project %}
-    {% if post.file %}
+    {% if post.ghlink %}
     <a href="{{ page.ghlink }}">
          <img src="/static/ghicon-32.png" align="right">
     </a>
