@@ -18,3 +18,5 @@ Main functions include:
 * control using array keys
 * a menu
 * adjustable game difficulty
+* a leaderboard
+* colored UI
