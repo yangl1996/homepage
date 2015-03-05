@@ -1,7 +1,7 @@
 ---
 layout: minimal_project
 project: True
-title: Frog Talk
+title: PKU Schedule Parser
 introduction: A simple Python program parsing PKU class schedule.
 ghlink: https://github.com/yangl1996/schedule-parser
 ---
