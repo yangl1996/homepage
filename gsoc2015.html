@@ -1,0 +1,18 @@
+---
+layout: minimal_default
+title: Lei's Web | Google Summer of Code 2015
+noindex: True
+---
+<h1>Google Summer of Code 2015</h1>
+<p>I am happily selected as acparticipating student of Google Summer of Code 2015. My project is "Implement and create new documentation toolchain"
+under CentOS Project. Here is the place I record this project.</p>
+{% for post in site.posts %}
+    {% if post.gsoc2015 %}
+    <a href="{{ post.url }}">{{ post.title }}</a></br>
+    {% if post.introduction %}
+      {{ post.introduction }}
+    {% endif %}
+    </br></br>
+    <hr/>
+    {% endif %}
+{% endfor %}
