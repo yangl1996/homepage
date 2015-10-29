@@ -2,7 +2,7 @@
 layout: minimal_project
 project: True
 title: CentOS Docs Toolchain
-introduction: My GSoC 2015 project - Implement and create new documentation toolchain for CenOS
+introduction: My GSoC 2015 project - Implement and create new documentation toolchain for CentOS
 ghlink: https://github.com/yangl1996/docs-toolchain
 ---
 
