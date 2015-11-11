@@ -6,7 +6,7 @@ introduction: A Python warpper for Pagure APIs
 ghlink: https://github.com/yangl1996/libpagure
 ---
 
-This is a project I wrote during Google Summer of Code 2015, encouraged by Pierre-Yves Chibon.
+This is a little project I started during Google Summer of Code 2015, encouraged by Pierre-Yves Chibon. Now it is maintained by some [great contributors](https://github.com/yangl1996/libpagure/graphs/contributors).
 
 The library works with [Pagure](https://pagure.io) and its web apis. If you have got some new feature or fixed some bugs, just send a pull request on the repository on [Pagure](https://pagure.io/libpagure). Thank you very much!
 
