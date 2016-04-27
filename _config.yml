@@ -5,7 +5,7 @@ link: http://www.yangl1996.com
 copyright: Copyright Lei Yang 2010-2016
 
 
-pygments: true
+rouge: true
 permalink: '/:title'
 markdown: kramdown
 
