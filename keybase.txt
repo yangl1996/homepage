@@ -1,0 +1,73 @@
+==================================================================
+https://keybase.io/yangl1996
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://www.yangl1996.com
+  * I am yangl1996 (https://keybase.io/yangl1996) on keybase.
+  * I have a public key with fingerprint 233A 3C40 8F6E 5D3F CC13  802F 2D3E B894 C40A E453
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01012161e4a35e0b2059b17315c82f245a1ee121573e1fa26b45ad31716aec4ad2ba0a",
+            "fingerprint": "233a3c408f6e5d3fcc13802f2d3eb894c40ae453",
+            "host": "keybase.io",
+            "key_id": "2d3eb894c40ae453",
+            "kid": "01012161e4a35e0b2059b17315c82f245a1ee121573e1fa26b45ad31716aec4ad2ba0a",
+            "uid": "5c4dc77fc266eef5c096813514b4fa19",
+            "username": "yangl1996"
+        },
+        "service": {
+            "hostname": "www.yangl1996.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1466969555,
+    "expire_in": 157680000,
+    "prev": "5239998c939f6074c296b5b81d943a4d16c35849dd30ce4102f2236645686c61",
+    "seqno": 12,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v1
+
+owGtkm1QVFUYxxeQTVFQUFliJPQGUxbCPffce3bvNmPOUJjT8mIxWF/Y7su5yxX2
+fdnlRYE0YHbCImcK0LKIaJgVtynaNpCkzYJQB2fKmMgZ0yIQGgbxLccSupexPvWx
+8+XMeZ7f8z//5zmnNT5GEx2VdTKtrUN/fWXU2Rles8exbaKW4O1iNWGsJcrx8oYr
+ROz2mMtlkTASJCABBRDANAcZTPIUybA80EPACAZKomiGAxgrBKOHGEgchXglJEKg
+B4jDAs2JFM+RHJFFSLLNgl0Ol2zzKLIUhBwUaNIgIcyIUBIEAA2kIihCzBtYWklx
+mGagUlhmd6sVijmec+Ns2a7ElIN52d5/8P+z78plOUagRUGvlwQKIYwlRiBZZACQ
+ATRPSxxgVdCNXTbOihW6mrNZKgDLImJ/FqGEvbKA1cmqrdxHfD5f9r9YtmC3KgoO
+l91jF+wVSrrM43EY1WpPtWMZx7z5vpCZl22iMkylwItdbtluI4xAIQWPrCoDGiEW
+sQzDZBG4yiG7sFlWCUaPDKSy1GuwV22JKoUsyxoEFrISIvW0QLGIZ3gDEFkacrQI
+kAAZA82KIiQFTAP1eSiIEM0gAxIQINTenDa7Ik4pRjmLIuqWLTbOU+nCxP44f/Sm
+FZqoaI02Nlr9Z5q4Vev++XxfO9fejcm9vt4VWKhMrxtqYb4b0T27QDz+58iNYNI3
+Tbq2jbcH5pbqJ/uaGr547dA48YOpOW8qRyfXlQ1MTphGj+iSGkf1LaYXa/O/zCzs
+2pzc9n7rvV9NcZw2JZB4qbD03GdDcX6tN9jm7MpxXv49PnHdMzMvpZPsdKJ1rttF
+JIFZX+6bJ39Mzuv4futUzwon//mAmF9/aXvm+p8sKfNUJPiLc2/qx/6qhofzpLHW
+wtJez5L28PROt7t5diBQVfBU/8x7mpqnj16Y+mNNCjVuPa5fE7xx6q3Yyr7kzlgR
+WVNdxPN3wHBUe6Qz7UBo6vLq0MGbm8J7/DNhuNP9wJNscurxA9s2XE1OuGd8denn
+6uBCa5IR0neM7Tz1cs6t06e+KqDO42ntvleu2Kp7xxM/Gdvw4RlvTVH9mLh44ljH
+RKq/pCfDa6rbnv52hOuosxSF/d9KF1de3KUbRz3nxYd6z1r/QqvSM2f6br0Q2vdc
+vLe52zeyezYUPXTYPDc86JzYONaSe7f25oPBE7NzJRWdk7s/Chy7Glhd3L6j47fI
+6Z6t5GRnv2nxkcbA5trguQ+c42dq0jy7XgePDo5qj1TFNDge27vjypbM8vCWxoL+
+pmsHG1MIzhelW3S+Kz1RMl8cCWU0RArWWhIS+vJ19Pyn8TB8+41QxnBXsTax+8I7
+1LWjmelFeDD8Nw==
+=obJ3
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/yangl1996
+
+==================================================================
