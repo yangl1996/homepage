@@ -8,8 +8,8 @@ noindex: True
 {% for post in site.posts %}
     {% if post.publication %}
     {% if post.file %}
-    <a href="/static/pdfs/{{ page.file }}">
-        <p>Full Text from Publisher</p>
+    <a href="{{ page.file }}">
+        <img src="/static/paper_publisher_icon.svg" align="right">
     </a>
     {% endif %}
     <a href="{{ post.url }}">{{ post.title }}</a></br>
