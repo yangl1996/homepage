@@ -1,20 +1,20 @@
 <?xml version="1.0"?>
-<svg width="200" height="120" xmlns="http://www.w3.org/2000/svg">
+<svg width="139" height="52" xmlns="http://www.w3.org/2000/svg">
  <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
  <g>
   <title>background</title>
-  <rect fill="#fff" id="canvas_background" height="122" width="202" y="-1" x="-1"/>
+  <rect fill="#fff" id="canvas_background" height="54" width="141" y="-1" x="-1"/>
   <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
    <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
   </g>
  </g>
  <g>
   <title>Layer 1</title>
-  <rect rx="12" stroke="#6D97AB" id="svg_14" height="50" width="137.000005" y="23.5" x="14.5" stroke-width="2" fill="none"/>
+  <rect rx="12" stroke="#6D97AB" id="svg_14" height="50" width="137.000005" y="1" x="1" stroke-width="2" fill="none"/>
   <g id="svg_15">
-   <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_5" y="50.5" x="54.5" stroke-opacity="null" stroke-width="0" stroke="#4D2425" fill="#306856">Full Text</text>
-   <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="14" id="svg_6" y="65.5" x="55.5" stroke-opacity="null" stroke-width="0" stroke="#4D2425" fill="#BBBBBB">from Publisher</text>
-   <path id="svg_7" d="m44.689991,34.831005c-2.391716,-2.323174 -4.970959,-4.183908 -7.086998,-4.437622c-0.115356,-0.016245 -0.234631,-0.026188 -0.360683,-0.028803l-13.925854,0c-0.222324,0 -0.441772,0.086315 -0.597919,0.246944c-0.155104,0.156384 -0.246925,0.375557 -0.246925,0.598927l0,35.312002c0,0.222244 0.086311,0.434731 0.246925,0.596786c0.160301,0.159042 0.371393,0.245338 0.597919,0.245338l25.183201,0c0.222042,0 0.434742,-0.085182 0.595074,-0.245338c0.160572,-0.160538 0.249508,-0.37294 0.249508,-0.596786l0,-23.497772c-0.04916,-2.727512 -2.185883,-5.702068 -4.654247,-8.193676zm2.962208,30.842884l-23.493773,0l0,-33.622795l13.08518,0l0,0.003178c0.570465,-0.034496 1.062717,0.5289 1.439899,1.818371c0.342903,1.22723 0.429218,2.827442 0.427898,3.937088c0.002609,0.812916 -0.037113,1.359089 -0.037113,1.359089l-0.066986,0.894001l0.899529,0.009346c0.004192,0 2.078884,0.024616 4.114067,0.487026c1.955456,0.422142 3.484596,1.264465 3.627094,2.21751c0.005527,0.084774 0.006813,0.170071 0.005527,0.249519l0,22.647667l-0.001324,0z" stroke-opacity="null" stroke-width="0" stroke="#4D2425" fill="#482816"/>
+   <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_5" y="28" x="41" stroke-opacity="null" stroke-width="0" stroke="#4D2425" fill="#306856">Full Text</text>
+   <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="14" id="svg_6" y="43" x="42" stroke-opacity="null" stroke-width="0" stroke="#4D2425" fill="#BBBBBB">from Publisher</text>
+   <path id="svg_7" d="m31.189991,12.331005c-2.391716,-2.323174 -4.970959,-4.183908 -7.086998,-4.437622c-0.115356,-0.016245 -0.234631,-0.026188 -0.360683,-0.028803l-13.925854,0c-0.222324,0 -0.441772,0.086315 -0.597919,0.246944c-0.155104,0.156384 -0.246925,0.375557 -0.246925,0.598927l0,35.312002c0,0.222244 0.086311,0.434731 0.246925,0.596786c0.160301,0.159042 0.371393,0.245338 0.597919,0.245338l25.183201,0c0.222042,0 0.434742,-0.085182 0.595074,-0.245338c0.160572,-0.160538 0.249508,-0.37294 0.249508,-0.596786l0,-23.497772c-0.04916,-2.727512 -2.185883,-5.702068 -4.654247,-8.193676zm2.962208,30.842884l-23.493773,0l0,-33.622795l13.08518,0l0,0.003178c0.570465,-0.034496 1.062717,0.5289 1.439899,1.818371c0.342903,1.22723 0.429218,2.827442 0.427898,3.937088c0.002609,0.812916 -0.037113,1.359089 -0.037113,1.359089l-0.066986,0.894001l0.899529,0.009346c0.004192,0 2.078884,0.024616 4.114067,0.487026c1.955456,0.422142 3.484596,1.264465 3.627094,2.21751c0.005527,0.084774 0.006813,0.170071 0.005527,0.249519l0,22.647667l-0.001324,0z" stroke-opacity="null" stroke-width="0" stroke="#4D2425" fill="#482816"/>
   </g>
  </g>
 </svg>
