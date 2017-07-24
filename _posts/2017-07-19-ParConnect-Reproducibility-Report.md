@@ -1,9 +1,10 @@
 ---
 layout: minimal_publication 
-publication: False
+publication: True
 title: ParConnect Reproducibility Report
 school: Peking University
 journal: Parallel Computing
+file: http://www.sciencedirect.com/science/article/pii/S0167819117300935
 ---
 
 ### Abstract
