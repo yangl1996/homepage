@@ -16,6 +16,11 @@ p, ul, ol, table, pre, dl {
   margin:0 0 20px;
 }
 
+p svg {
+  display: inline-block;
+  vertical-align: middle;
+}
+
 h1, h2, h3 {
   line-height:1.1;
 }
