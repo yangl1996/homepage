@@ -16,9 +16,12 @@ p, ul, ol, table, pre, dl {
   margin:0 0 20px;
 }
 
-p svg {
-  display: inline-block;
-  vertical-align: middle;
+p img{
+  display: inline-flex;
+  align-self: center;
+  position: relative;
+  height: 0.9em;
+  bottom: -0.05em;
 }
 
 h1, h2, h3 {
