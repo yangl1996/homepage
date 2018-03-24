@@ -1,5 +1,6 @@
 ---
-layout: default 
+layout: default
+title: Homepage
 ---
 
 ## Introduction
