@@ -1,12 +1,6 @@
 title: Lei Yang
-tagline: Stay hungry, stay foolish.
-owner: Lei Yang
-link: http://www.yangl1996.com
-copyright: Copyright Lei Yang 2010-2017
-
-
-rouge: true
-permalink: '/:title'
-markdown: kramdown
-
-exclude: [README.md]
+description: Stay hungry, stay foolish.
+copyright: Copyright Lei Yang 2010-2018
+google_analytics: UA-24864834-6
+url: http://www.mit.edu
+baseurl: "/~leiy"
