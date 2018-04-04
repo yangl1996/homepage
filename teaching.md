@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Homepage
+title: Teaching
 ---
 
 ## Teaching
@@ -8,7 +8,7 @@ title: Homepage
 Here is a list of courses that I TA'ed.
 
 {% for course in site.data.teaching %}
-- {{ course.title }} \| {{ course.term }}, {{ course.institute }}
+- {{ course.id }} {{ course.title }} \| {{ course.term }}, {{ course.institute }}
 	- Instructor: {{ course.instructor }}
 {%- if course.role %}
 	- Role: {{ course.role }}
