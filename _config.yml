@@ -1,6 +1,9 @@
 title: Lei Yang
 description: Stay hungry, stay foolish.
-copyright: Copyright Lei Yang 2010-2018
+
 google_analytics: UA-24864834-6
+#logo: /static/logo.png
+
 url: http://www.mit.edu
 baseurl: "/~leiy"
+
