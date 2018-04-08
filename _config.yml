@@ -7,3 +7,5 @@ google_analytics: UA-24864834-6
 url: http://www.mit.edu
 baseurl: "/~leiy"
 
+exclude: ["README.md", "Gemfile", "Gemfile.lock"]
+
