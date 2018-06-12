@@ -11,10 +11,6 @@ I'm an incoming PhD student in Computer Science. This fall I'll be joining the [
 
 Technology fascinates me a lot, and I am most interested in networks, opensource and electronics. For relaxation, I enjoy hiking and travelling. I'm also a fan of railway and aviation. Plus, I am a licensed amateur radio operator. My callsign is BH1UNB. Check out [my profile](https://www.qrz.com/db/BH1UNB) in the QRZ.com database.
 
-## OpenPGP Public Key
-
-Check out my OpenPGP public key on [Keybase](https://keybase.io/yangl1996) :)
-
 ## Blog
 
 I've been blogging in Chinese for {{ site.time | date: '%Y' | minus: 2011 }} years. My blog is focused on opensource, Linux, networks, electronics and travelling. Check it out at [blog.yangl1996.com](http://blog.yangl1996.com).
