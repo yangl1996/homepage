@@ -38,6 +38,14 @@ p span.hideit {
   display: none;
 }
 
+.pgp-fingerprint span:first-child {
+    padding-left: 0
+}
+
+.pgp-fingerprint span {
+    padding-left: 1px
+}
+
 h1, h2, h3 {
   line-height:1.1;
 }

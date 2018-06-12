@@ -35,7 +35,14 @@
         <!-- begin openpgp public key -->
         <p>
             <img src="static/key-symbol.svg" alt="OpenPGP:" class="octicons">
-            <a href="{{ site.pgp-pubkey-link }}" target="_blank">{{ site.pgp-pubkey }}</a>
+            <a href="{{ site.pgp-pubkey-link }}" target="_blank">
+                <span class="pgp-fingerprint">
+                    <span>{{ site.pgp-pubkey | slice: 0, 4 }}</span>
+                    <span>{{ site.pgp-pubkey | slice: 4, 4 }}</span>
+                    <span>{{ site.pgp-pubkey | slice: 8, 4 }}</span>
+                    <span>{{ site.pgp-pubkey | slice: 12, 4 }}</span>
+                </span>
+            </a>
         </p>
         <!-- end openpgp public key-->
 		
