@@ -1,7 +1,6 @@
----
-layout: default
-title: Teaching
----
++++
+draft = true
++++
 
 ## Teaching
 

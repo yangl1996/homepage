@@ -1,0 +1,10 @@
+relativeURLs = true
+googleAnalytics = "UA-24864834-6"
+title = "Lei Yang"
+theme = "academimal"
+
+[params]
+    PGPFingerprint = "2D3EB894C40AE453"
+    PGPPubkeyLink = "https://keybase.io/yangl1996/pgp_keys.asc?fingerprint=233a3c408f6e5d3fcc13802f2d3eb894c40ae453"
+    shortbio = "Incoming Ph.D. student at MIT EECS."
+    

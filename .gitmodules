@@ -1,3 +1,5 @@
 [submodule "themes/academimal"]
 	path = themes/academimal
 	url = https://github.com/yangl1996/academimal.git
+[submodule "academimal"]
+	branch = master
