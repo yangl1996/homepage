@@ -1,7 +1,12 @@
 # Lei Yang's Homepage
 
-This repository holds the Jekyll source of [my homepage](http://www.yangl1996.com). The theme is based on GitHub Pages' "[Minimal](https://github.com/pages-themes/minimal)".
+This repository holds the source of [my homepage](http://leiy.me). The Hugo
+theme used in the site can be found
+[here](https://github.com/yangl1996/academimal).
 
 ## How to build your own
 
-Like my homepage? Thanks! Would like to build your own? Then __please, do not just copy the master branch.__ Instead, _understand how [Jekyll](https://jekyllrb.com/docs/home/) works_ and _use the [`starter-template`](https://github.com/yangl1996/homepage/tree/starter-template) branch_. Thank you!
+Like my homepage? Thanks! Would like to build your own? Then __please, do not
+just copy the master branch.__ Instead, _understand how
+[Hugo](https://gohugo.io/documentation/) works_ and _only use
+this repository as an example for your own site._ Thank you!
