@@ -3,6 +3,7 @@ googleAnalytics = "UA-24864834-6"
 title = "Lei Yang"
 theme = "academimal"
 sectionPagesMenu = "main"
+defaultContentLanguage = "en"
 
 [params]
     PGPFingerprint = "2D3EB894C40AE453"
