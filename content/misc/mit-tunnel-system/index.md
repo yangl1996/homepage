@@ -13,8 +13,10 @@ handy during summer and winter.
 
 MIT Facilities published [a map](http://web.mit.edu/facilities/maps/mit_Tunnel_map.pdf)
 of the tunnel system. There are signs at most intersections and building
-entrances, making navigation a lot easier.
+entrances, making navigation a lot easier. Also, the tunnels are laid right
+under the buildings either along east-west or north-south, so the compass in
+the smart phone can be very helpful..
 
 I'm also thinking about building an app to navigate the tunnels, using
-inertial navigation, WiFi fingerprint and compass. Hope I'll get the time...
+accelerometer, WiFi fingerprint and compass. Hope I'll have the time...
 
