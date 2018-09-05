@@ -23,8 +23,3 @@ out [my profile](https://www.qrz.com/db/BH1UNB) in the QRZ.com database.
 This July, I graduated summa cum laude from Peking University with a Bachelor's
 degree in Computer Science.
 
-## Blog
-
-I've been blogging in Chinese for {{< yearselapsed from="2011" >}} years. My
-blog is focused on opensource, Linux, networks, electronics and travelling.
-Check it out at [blog.yangl1996.com](http://blog.yangl1996.com).
