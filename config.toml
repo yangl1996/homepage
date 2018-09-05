@@ -10,4 +10,6 @@ defaultContentLanguage = "en"
     PGPPubkeyLink = "https://keybase.io/yangl1996/pgp_keys.asc?fingerprint=233a3c408f6e5d3fcc13802f2d3eb894c40ae453"
     ORCID = "0000-0003-3256-4700"
     shortbio = "Ph.D. student in Computer Science"
+    officeAddress = "32-G978B"
+    officeMapLink = "https://whereis.mit.edu/?go=32"
     
