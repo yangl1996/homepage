@@ -20,6 +20,7 @@ out [my profile](https://www.qrz.com/db/BH1UNB) in the QRZ.com database.
 
 ### What's New
 
-This July, I graduated summa cum laude from Peking University with a Bachelor's
-degree in Computer Science.
-
+Our paper _Practical Backscatter Communication Systems for Battery-Free
+Internet of Things: A Tutorial and Survey of Recent Research_ (authors:
+Chenren Xu, Lei Yang, Pengyu Zhang) is published on IEEE Signal Processing
+Magazine as a [_featured article of the issue_](https://signalprocessingsociety.org/publications-resources/ieee-signal-processing-magazine/practical-backscatter-communication-systems).
