@@ -4,7 +4,7 @@ title = "Food Near Stata"
 
 ## Food Near Stata
 
-A collection of lunch/dinner places that have been tested.
+A collection of lunch/dinner places near[^1] Stata that I have tested.
 
 ### Food Trucks
 
@@ -27,6 +27,7 @@ A collection of lunch/dinner places that have been tested.
     - Chinese
 - Jose's
     - Near [62](https://whereis.mit.edu/?go=62) to the west
+    - _Cash only_
     - [Picture of menu](./jose-menu.jpg)
     - Mexican
 
@@ -39,10 +40,23 @@ A collection of lunch/dinner places that have been tested.
 - Legal Fish Bowl
     - Across Main St. from [E19](https://whereis.mit.edu/?go=E19)
     - Menu on [their website](https://files.legalseafoods.com/file/LSF-FishBowl-Menu-B924.pdf)
-    - Build-your-own-bowl
+    - Build your own Poke bowl
 - Forbes Family Cafe
-    - On the ground floor of [Stata](https://whereis.mit.edu/?go=32)
+    - On the ground floor of [32](https://whereis.mit.edu/?go=32)
     - Menu on [their website](https://whereis.mit.edu/?go=E19)
     - Salad, soup, packaged sushi/poke, daily special, sandwiches and pizza
     - Has a video "tunnel" to their branch at Stanford (in Y2E2)
+- Saloniki Greek
+	- Across Albany St. from [N10](https://whereis.mit.edu/?go=N10)
+	- Menu on [their website](https://www.salonikigreek.com/menus/)
+	- Greek food served with Pita or in a Plate (w/ brown rice and vegetables)
+- Oath Pizza
+    - Across Albany St. from [N10](https://whereis.mit.edu/?go=N10), next to Saloniki Greek
+    - Menu on [their website](http://oathpizza.com/menu)
+    - Build your own pizza, or select from a bunch of pre-compiled ones
+- Flour
+    - Across Albany St. from [NW12](https://whereis.mit.edu/?go=NW12) on Mass Ave.
+    - Menu on [their website](https://flourbakery.com/menu/)
+    - Sandwiches (cold/roasted), desserts, drinks, breakfast
 
+[^1]: Within 10 minutes' walk, actually

@@ -20,7 +20,8 @@ out [my profile](https://www.qrz.com/db/BH1UNB) in the QRZ.com database.
 
 ### What's New
 
-Our paper _Practical Backscatter Communication Systems for Battery-Free
-Internet of Things: A Tutorial and Survey of Recent Research_ (authors:
+Our paper [_Practical Backscatter Communication Systems for Battery-Free
+Internet of Things: A Tutorial and Survey of Recent
+Research_](https://ieeexplore.ieee.org/document/8454398) (authors:
 Chenren Xu, Lei Yang, Pengyu Zhang) is published on IEEE Signal Processing
-Magazine as a [_featured article of the issue_](https://signalprocessingsociety.org/publications-resources/ieee-signal-processing-magazine/practical-backscatter-communication-systems).
+Magazine as a [_featured article_](https://signalprocessingsociety.org/publications-resources/ieee-signal-processing-magazine/practical-backscatter-communication-systems).
