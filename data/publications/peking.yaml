@@ -11,7 +11,7 @@ journal:
     - Xiaolin Wang
     - Yun Liang
   book: "Parallel Computing"
-  year: 2018
+  date: "October 2018"
 
 - title: "Practical Backscatter Communication Systems for Battery-Free Internet of Things: A Tutorial and Survey of Recent Research"
   link: "https://ieeexplore.ieee.org/abstract/document/8454398/"
@@ -23,8 +23,7 @@ journal:
   remarks: 
     text: "Featured article"
     link: "https://signalprocessingsociety.org/publications-resources/ieee-signal-processing-magazine/practical-backscatter-communication-systems"
-  year: 2018
-  month: 9
+  date: "September 2018"
 
 - title: "ParConnect reproducibility report"
   link: "https://www.sciencedirect.com/science/article/pii/S0167819117300935"
@@ -38,4 +37,4 @@ journal:
     - Xiaolin Wang
     - Yun Liang
   book: "Parallel Computing"
-  year: 2017
+  date: "December 2017"
