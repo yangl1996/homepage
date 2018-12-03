@@ -12,6 +12,9 @@ color="#FF0000">N</font><font color="#009900">M</font><font
 color="#3333FF">S</font></b></font>) of [MIT](http://web.mit.edu/)'s
 [Computer Science & Artificial Intelligence Lab](https://www.csail.mit.edu)
 (CSAIL). My research is focused on Computer Networks and Networked Systems.
+I'm advised by [Prof. Hari Balakrishnan](http://nms.csail.mit.edu/~hari/) and [Prof. Mohammad Alizadeh](https://people.csail.mit.edu/alizadeh/). Prior
+to that, I received my Bachelor of Science in Computer Science at
+Peking University.
 
 Technology fascinates me a lot, and I am most interested in networks,
 opensource and electronics. I also enjoy hiking, cycling and travelling.

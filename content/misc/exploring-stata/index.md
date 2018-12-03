@@ -8,6 +8,14 @@ I find the Ray and Maria Stata Center quite exciting to me. Besides the
 exterior, the inner space has much to explore. I'll note down my findings
 as a newcomer here on this page.
 
+### Kitchens
+
+My office is on G9, but sometimes I go to the kitchens of other floors for
+drinks. Here's a list of kitchens that I have explored
+
+- G9: An espresso machine and a bean grinder. Not super tidy since people tend to grind more than they need, and coffee powder end up on the table.
+- G8: A capsule coffee machine with an abundance of cream and sweetener. Plus tea bags, Swiss Miss, and a hot water machine.
+
 ### Bathrooms
 
 In the G-Tower (at least floor 8 and 9), the size of bathrooms is
@@ -21,7 +29,7 @@ than waiting.
 There are several vending machines in the basement. To find them, go down
 the stairs next to room 155 to B floor, and you'll encounter a sign saying "Do
 not forget your MIT ID" (actually ID is not needed to return - there is no
-prox card reader). Behind the door on the left, there are three
+prox card lock). Behind the door on the left, there are three
 machines for icecream, soda and snacks. The door on the right leads to the
 [tunnels]({{< relref "/misc/mit-tunnel-system" >}}) and there are four
 machines for coffee, drinks and snacks. They all accept credit card, but no
@@ -29,9 +37,8 @@ TechCash.
 
 ### Connection to RLE
 
-There is a connection to RLE (building 36) at the fourth floor. Just walk
-through the Fourth Floor Commons and past the elevators. Through this you
+There is a connection to RLE (building 36) on the fourth floor. Just walk
+through the Faculty Dining and past the elevators. Through this you
 can access most buildings on the main campus without getting exposed to
-the elements, or going downstairs to the basement tunnels.
-
+the elements, or detouring through the basement tunnels.
 

@@ -31,7 +31,7 @@ A collection of lunch/dinner places near[^1] Stata that I have tested.
     - [Picture of menu](./jose-menu.jpg)
     - Mexican
 
-### Restaurants
+### Cafe / Restaurants
 
 - Area Four
     - Near [NE45](https://whereis.mit.edu/?go=NE45) to the east
