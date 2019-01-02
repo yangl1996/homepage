@@ -16,6 +16,14 @@ drinks. Here's a list of kitchens that I have explored
 - G9: An espresso machine and a bean grinder. Not super tidy since people tend to grind more than they need, and coffee powder end up on the table.
 - G8: A capsule coffee machine with an abundance of cream and sweetener. Plus tea bags, Swiss Miss, and a hot water machine.
 
+### Free Food
+
+G9 free food calendar:
+
+- Tuesday: PDOS, Database
+- Wednesday: Faculty lunch (usually a lot of leftover)
+- Friday: NMS
+
 ### Bathrooms
 
 In the G-Tower (at least floor 8 and 9), the size of bathrooms is
