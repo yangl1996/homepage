@@ -1,5 +1,5 @@
 +++
-title = "Road Trips Around Cambridage"
+title = "Road Trips Around Cambridge"
 +++
 
 ## Road Trips Around Cambridge
@@ -14,20 +14,21 @@ Moon rising from the horizon and glowing in gold.
 
 ![](./hull.jpg)
 
-{{< importmapkitjs >}}
-<script src="./hull-route.js"></script>
-{{< mapkitjs height="300px" elementID="hull_map" >}}
-hull_route_len = hull_route.length;
-hull_route_points = [];
-for (i = 0; i < hull_route_len; i++) {
-    hull_point = new mapkit.Coordinate(hull_route[i]['latitude'], hull_route[i]['longitude'])
-    hull_route_points.push(hull_point);
+{{< initMapKitJS >}}
+
+{{< MapKitJSMap height="300px" elementID="hull_map" >}}
+let geoJSONParserDelegateHull = {
+    itemForLineString: function(overlay, json) {
+                overlay.style = new mapkit.Style({
+                    lineWidth: 2
+                });
+                hull_map.addOverlay(overlay);
+                hull_map.showItems(overlay);
+                return overlay;
+                }
 }
-hull_overlay_opt = {style: new mapkit.Style({lineWidth: 2})}
-hull_overlay = new mapkit.PolylineOverlay(hull_route_points, hull_overlay_opt);
-hull_map.addOverlay(hull_overlay);
-hull_map.showItems(hull_overlay);
-{{< /mapkitjs >}}
+hull_geojson = mapkit.importGeoJSON("./hull_route.geojson", geoJSONParserDelegateHull)
+{{< /MapKitJSMap >}}
 
 ### Essex Costal Scenic Byway
 
@@ -39,3 +40,17 @@ to get a close view of the sea. There are many costal parks along the route,
    where you can stop and have some fun.
 
 ![](./gloucester.jpg)
+
+{{< MapKitJSMap height="300px" elementID="essex_map" >}}
+let geoJSONParserDelegateGloucester = {
+    itemForLineString: function(overlay, json) {
+                overlay.style = new mapkit.Style({
+                    lineWidth: 2
+                });
+                essex_map.addOverlay(overlay);
+                essex_map.showItems(overlay);
+                return overlay;
+                }
+}
+essex_geojson = mapkit.importGeoJSON("./gloucester_route.geojson", geoJSONParserDelegateGloucester)
+{{< /MapKitJSMap >}}
