@@ -1,5 +1,5 @@
 +++
-title = "Misc"
+title = "Personal"
 weight = 0
 +++
 

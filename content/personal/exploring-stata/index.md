@@ -39,7 +39,7 @@ the stairs next to room 155 to B floor, and you'll encounter a sign saying "Do
 not forget your MIT ID" (actually ID is not needed to return - there is no
 prox card lock). Behind the door on the left, there are three
 machines for icecream, soda and snacks. The door on the right leads to the
-[tunnels]({{< relref "/misc/mit-tunnel-system" >}}) and there are four
+[tunnels]({{< relref "/personal/mit-tunnel-system" >}}) and there are four
 machines for coffee, drinks and snacks. They all accept credit card, but no
 TechCash.
 
