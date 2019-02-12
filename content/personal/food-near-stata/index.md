@@ -58,5 +58,9 @@ A collection of lunch/dinner places near[^1] Stata that I have tested.
     - Across Albany St. from [NW12](https://whereis.mit.edu/?go=NW12) on Mass Ave.
     - Menu on [their website](https://flourbakery.com/menu/)
     - Sandwiches (cold/roasted), desserts, drinks, breakfast
+- Dumpling Daughter
+    - Next to Broad Institute on Ames St.
+    - Menu on [their website](https://www.dumplingdaughter.com/menu-cambridge)
+    - Chinese street food
 
 [^1]: Within 10 minutes' walk, actually

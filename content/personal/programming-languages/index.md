@@ -9,6 +9,7 @@ In case I forgot...
 - C
 - C++
 - Python
+- Rust
 - Golang
 - Javascript
 - Verilog
@@ -16,7 +17,6 @@ In case I forgot...
 ### Want to try
 
 - Julia
-- Rust
 - Chisel
 - Haskell
 

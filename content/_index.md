@@ -23,8 +23,9 @@ out [my profile](https://www.qrz.com/db/BH1UNB) in the QRZ.com database.
 
 ### What's New
 
-Our paper [_Practical Backscatter Communication Systems for Battery-Free
-Internet of Things: A Tutorial and Survey of Recent
-Research_](https://ieeexplore.ieee.org/document/8454398) (authors:
-Chenren Xu, Lei Yang, Pengyu Zhang) is published on IEEE Signal Processing
-Magazine as a [_featured article_](https://signalprocessingsociety.org/publications-resources/ieee-signal-processing-magazine/practical-backscatter-communication-systems).
+Our paper _BackCam: Wireless Computer Vision Using Commodity Devices_
+(authors: Colleen Josephson, Lei Yang, Pengyu Zhang, Sachin Katti) was
+accepted into [IPSN 2019](http://ipsn.acm.org/2019/program.html).
+We opensourced both its hardware and software
+as a platform for future research on practical Backscatter
+systems. [Check it out](https://github.com/cjosephson/backcam)!
