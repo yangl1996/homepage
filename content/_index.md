@@ -12,12 +12,13 @@ color="#FF0000">N</font><font color="#009900">M</font><font
 color="#3333FF">S</font></b></font>) of [MIT](http://web.mit.edu/)'s
 [Computer Science & Artificial Intelligence Lab](https://www.csail.mit.edu)
 (CSAIL). My research is focused on Computer Networks and Networked Systems.
-I'm advised by [Prof. Hari Balakrishnan](http://nms.csail.mit.edu/~hari/) and [Prof. Mohammad Alizadeh](https://people.csail.mit.edu/alizadeh/). Prior
-to that, I received my Bachelor of Science in Computer Science at
-Peking University.
+I'm advised by [Prof. Hari Balakrishnan](http://nms.csail.mit.edu/~hari/)
+and [Prof. Mohammad Alizadeh](https://people.csail.mit.edu/alizadeh/). Prior
+to that, I received my B.S. in Computer Science at Peking University.
 
-Technology fascinates me a lot, and I am most interested in networks,
-opensource and electronics. I also enjoy hiking, cycling and travelling.
+I love designing and building systems that are robust, performant, and
+easy to use. Occasionally I write about what I do in [my blog](https://blog.leiy.me).
+When away from the keyboard, I enjoy hiking, cycling and travelling.
 Plus, I am a licensed amateur radio operator. My callsign is BH1UNB. Check
 out [my profile](https://www.qrz.com/db/BH1UNB) in the QRZ.com database.
 
