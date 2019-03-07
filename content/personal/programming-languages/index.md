@@ -4,15 +4,9 @@ title = "Languages"
 
 ## Languages
 
-In case I forgot...
+Don't get me wrong - I love all those languages. Btw, I also write Verilog.
 
-- C
-- C++
-- Python
-- Rust
-- Golang
-- Javascript
-- Verilog
+![](./plane.jpg)
 
 ### Want to try
 

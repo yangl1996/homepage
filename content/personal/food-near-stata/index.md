@@ -41,11 +41,14 @@ A collection of lunch/dinner places near[^1] Stata that I have tested.
     - Across Main St. from [E19](https://whereis.mit.edu/?go=E19)
     - Menu on [their website](https://files.legalseafoods.com/file/LSF-FishBowl-Menu-B924.pdf)
     - Build your own Poke bowl
-- Forbes Family Cafe
+- Stata Cafe
     - On the ground floor of [32](https://whereis.mit.edu/?go=32)
     - Menu on [their website](https://whereis.mit.edu/?go=E19)
     - Salad, soup, packaged sushi/poke, daily special, sandwiches and pizza
     - Has a video "tunnel" to their branch at Stanford (in Y2E2)
+- Koch Cafe
+    - On the ground floor of [76](https://whereis.mit.edu/?go=76)
+    - Self-service salad, comfort food, candy, and _froyo_!
 - Saloniki Greek
 	- Across Albany St. from [N10](https://whereis.mit.edu/?go=N10)
 	- Menu on [their website](https://www.salonikigreek.com/menus/)
