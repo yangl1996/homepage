@@ -1,13 +1,11 @@
 conference:
 - title: "BackCam: Wireless Computer Vision Using Commodity Devices"
-  link: "http://ipsn.acm.org/2019/program.html?v=1"
+  link: "https://dl.acm.org/citation.cfm?doid=3302506.3310403"
   authors:
     - Colleen Josephson
     - Lei Yang
     - Pengyu Zhang
     - Sachin Katti
   book: "IPSN 2019"
-  remarks: 
-    text: "To appear"
   date: "April 2019"
 
