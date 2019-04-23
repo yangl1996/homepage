@@ -65,5 +65,8 @@ A collection of lunch/dinner places near[^1] Stata that I have tested.
     - Next to Broad Institute on Ames St.
     - Menu on [their website](https://www.dumplingdaughter.com/menu-cambridge)
     - Chinese street food
+- CAVA
+    - Across Ames St. of Dumpling Daughter
+    - Mediterranean food
 
 [^1]: Within 10 minutes' walk, actually
