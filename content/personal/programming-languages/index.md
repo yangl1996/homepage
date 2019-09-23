@@ -10,7 +10,7 @@ Don't get me wrong - I love all those languages. Btw, I also write Verilog.
 
 ### Want to try
 
-- Julia
+- Swift
 - Chisel
 - Haskell
 

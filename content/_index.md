@@ -16,17 +16,16 @@ I'm advised by [Prof. Hari Balakrishnan](http://nms.csail.mit.edu/~hari/)
 and [Prof. Mohammad Alizadeh](https://people.csail.mit.edu/alizadeh/). Prior
 to that, I received my B.S. in Computer Science at Peking University.
 
-I love designing and building systems that are robust, performant, and
-easy to use. Occasionally I write about what I do in [my blog](https://blog.leiy.me).
-When away from the keyboard, I enjoy hiking, cycling and travelling.
-Plus, I am a licensed amateur radio operator. My callsign is BH1UNB. Check
-out [my profile](https://www.qrz.com/db/BH1UNB) in the QRZ.com database.
+I love designing and building software and hardware systems that are robust,
+performant, and easy to use. Previously I've done a bunch of projects in
+wireless networking, such as a [camera](https://github.com/cjosephson/backcam)
+system that runs for over a month on two AA batteries. My current research
+project is related to blockchain. Occasionally I write about what I do in
+[my blog](https://blog.leiy.me). When away from the keyboard, I enjoy hiking,
+cycling, sailing and travelling. Plus, I am a licensed amateur radio operator.
+My callsign is BH1UNB. Check out [my profile](https://www.qrz.com/db/BH1UNB)
+in the QRZ.com database.
 
 ### What's New
 
-Our paper _BackCam: Wireless Computer Vision Using Commodity Devices_
-(authors: Colleen Josephson, Lei Yang, Pengyu Zhang, Sachin Katti) was
-accepted into [IPSN 2019](http://ipsn.acm.org/2019/program.html).
-We opensourced both its hardware and software
-as a platform for future research on practical Backscatter
-systems. [Check it out](https://github.com/cjosephson/backcam)!
+Chilling after the NSDI deadline.
