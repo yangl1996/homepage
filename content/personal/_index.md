@@ -28,6 +28,9 @@ function loadPosts() {
       var ul_item = document.createElement("ul");
 
       for (i in posts) {
+        if (i >= 5) {
+	  break;
+	}
         var li_item = document.createElement("li");
         var post_rellink = posts[i]['rellink']
         var post_title = posts[i]['title']
