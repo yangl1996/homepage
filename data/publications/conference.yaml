@@ -9,3 +9,15 @@ conference:
   book: "IPSN 2019"
   date: "April 2019"
 
+- title: "High Throughput Cryptocurrency Routing in Payment Channel Networks"
+  authors:
+    - Vibhaalakshmi Sivaraman
+    - Shaileshh Bojja Venkatakrishnan
+    - Kathleen Ruan
+    - Parimarjan Negi
+    - Lei Yang
+    - Radhika Mittal
+    - Giulia Fanti
+    - Mohammad Alizadeh
+  book: "NSDI 2020"
+  date: "February 2020"
