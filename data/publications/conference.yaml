@@ -21,3 +21,8 @@ conference:
     - Mohammad Alizadeh
   book: "NSDI 2020"
   date: "February 2020"
+  links:
+      - link: "http://news.mit.edu/2020/spider-cryptocurrency-routing-efficiency-0130"
+        text: "MIT News"
+      - link: "https://www.computerworld.com/article/3518893/mits-blockchain-based-spider-offers-4x-faster-cryptocurrency-processing.html"
+        text: "Computer World"
