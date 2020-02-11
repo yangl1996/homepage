@@ -17,3 +17,6 @@ shortbio = "Ph.D. student in Computer Science"
 officeAddress = "32-G918"
 officeMapLink = "https://www.csail.mit.edu/sites/default/files/resources/maps/9G/G918.gif"
 
+[markup.goldmark]
+  [markup.goldmark.renderer]
+    unsafe = true

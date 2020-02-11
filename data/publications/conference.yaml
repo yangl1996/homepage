@@ -8,6 +8,9 @@ conference:
     - Sachin Katti
   book: "IPSN 2019"
   date: "April 2019"
+  links:
+      - link: "https://github.com/cjosephson/backcam"
+        text: "Source code and hardware design"
 
 - title: "High Throughput Cryptocurrency Routing in Payment Channel Networks"
   authors:
