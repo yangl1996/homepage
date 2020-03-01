@@ -30,4 +30,4 @@ in the QRZ.com database.
 
 ### What's New
 
-We put our paper _Prism: Scaling Bitcoin by 10,000x_ (authors: Lei Yang, Vivek Bagaria, Gerui Wang, Mohammad Alizadeh, David Tse, Giulia Fanti, Pramod Viswanath) on arXiv. Check out the [full text](https://arxiv.org/abs/1909.11261) and the [source code](https://github.com/yangl1996/prism-rust)!
+Check out the [talk](https://www.youtube.com/watch?v=gTJyDtuWvUQ) about Prism I gave at the Stanford Blockchain Conference 2020.
