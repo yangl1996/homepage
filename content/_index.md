@@ -11,10 +11,10 @@ Group](http://nms.csail.mit.edu) (<font face="Trebuchet MS"><b><font
 color="#FF0000">N</font><font color="#009900">M</font><font
 color="#3333FF">S</font></b></font>) of [MIT](http://web.mit.edu/)'s
 [Computer Science & Artificial Intelligence Lab](https://www.csail.mit.edu)
-(CSAIL). My research is focused on Computer Networks and Networked Systems.
+(CSAIL). My research is focused on computer networks and distributed systems.
 I'm advised by [Prof. Mohammad Alizadeh](https://people.csail.mit.edu/alizadeh/)
-and [Prof. Hari Balakrishnan](http://nms.csail.mit.edu/~hari/). Prior
-to that, I received my B.S. in Computer Science at Peking University.
+and [Prof. Hari Balakrishnan](http://nms.csail.mit.edu/~hari/).
+I received my SM from MIT in 2020 and my BS in Computer Science from Peking University in 2018.
 
 I love designing and building software and hardware systems that are robust,
 performant, and easy to use. Previously I've done a bunch of projects in

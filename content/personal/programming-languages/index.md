@@ -4,7 +4,7 @@ title = "Languages"
 
 ## Languages
 
-Don't get me wrong - I love all those languages. Btw, I also write Verilog.
+Don't get me wrong - I love all those languages. In addition, I also write Verilog.
 
 ![](./plane.jpg)
 
@@ -13,4 +13,5 @@ Don't get me wrong - I love all those languages. Btw, I also write Verilog.
 - Swift
 - Chisel
 - Haskell
+- TLA+ / Spin
 
