@@ -25,8 +25,7 @@ focuses on improving the performance of blockchain. Our implementation of the
 70,000 transactions per second. Occasionally, I write about what I do in
 [my blog](https://blog.leiy.me). When away from the keyboard, I enjoy hiking,
 cycling, sailing and travelling. Plus, I am a licensed amateur radio operator.
-My callsign is BH1UNB. Check out [my profile](https://www.qrz.com/db/BH1UNB)
-in the QRZ.com database.
+My callsign is KC1NOR.
 
 ### What's New
 
