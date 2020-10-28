@@ -8,6 +8,10 @@ weight = 0
 
 [Xinyue Lin](https://xinyue-lin.com) - behavioral economist in training
 
+## Service
+
+- Reviewer: IEEE Transactions on Communications
+
 ## Recent Blog Posts
 
 <div id="blog_posts">
