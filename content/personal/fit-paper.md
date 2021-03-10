@@ -1,11 +1,11 @@
 +++
-title = "Fit your paper into page limit"
+title = "Fit your paper into 12 pages"
 +++
 
-# Fit your paper into page limit
+# Fit your paper into 12 pages
 
-I collected the following techniques from my advisor Mohammad and
-my labmate Prateesh.
+I collected these techniques from my advisor Mohammad,
+my labmate Prateesh, and stackoverflow.
 
 ```latex
 % The following option preserves the space between words and letters,
@@ -26,4 +26,8 @@ my labmate Prateesh.
 \titlespacing*{\section}{0pt}{4pt}{3pt}
 \titlespacing*{\subsection}{0pt}{3pt}{3pt}
 \titlespacing*{\subsubsection}{0pt}{3pt}{3pt}
+
+% Do not penalize widow and orphan lines
+\widowpenalty=0 % Allow the end of a paragraph to overflow to the next page
+\clubpenalty=0  % Allow the beginning of a paragraph to begin from the prev page
 ```
