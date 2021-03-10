@@ -1,5 +1,6 @@
 +++
 title = "Cheatsheets"
+draft = true
 +++
 
 ## Cheatsheets

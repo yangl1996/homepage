@@ -1,5 +1,6 @@
 +++
 title = "Interesting Scripts"
+draft = true
 +++
 
 ## Interesting Scripts

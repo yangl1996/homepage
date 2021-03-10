@@ -1,5 +1,6 @@
 +++
 title = "Exploring Stata"
+draft = true
 +++
 
 ## Exploring Stata
