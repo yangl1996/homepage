@@ -46,7 +46,7 @@ function loadPosts() {
       posts_list.appendChild(ul_item);
     }
     else if (this.readyState == 4 && this.status != 200) {
-      posts_list.innerHTML = "<p>Unable to load from <a href=\"https://blog.leiy.me\">blog.leiy.me</a></p>.";
+      posts_list.innerHTML = "<p>Unable to load from <a href=\"https://blog.leiy.me\">blog.leiy.me</a>.</p>";
     }
   };
   xhttp.open("GET", "https://blog.leiy.me/index.json", true);
