@@ -28,4 +28,6 @@ My callsign is KC1NOR.
 
 ### What's New
 
-Check out the [talk](https://www.youtube.com/watch?v=gTJyDtuWvUQ) about Prism I gave at the Stanford Blockchain Conference 2020.
+- Intern at Algorand this summer
+- TA for 6.829 the fall semester
+
