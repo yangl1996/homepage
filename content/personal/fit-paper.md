@@ -19,6 +19,8 @@ my labmate Prateesh, and stackoverflow.
 % Reduce the spacing around floats so that you do not need to manually set tons of \vspace.
 \addtolength{\textfloatsep}{-0.2in} % spacing between floats and text
 \addtolength{\floatsep}{-0.1in}     % spacing between two floats
+\captionsetup[table]{font=small,skip=4pt}   % spacing between caption and figure
+\captionsetup[figure]{font=small,skip=4pt}
 
 % Make the section headings smaller.
 \usepackage[small, compact]{titlesec}
