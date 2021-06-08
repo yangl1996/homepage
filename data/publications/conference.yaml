@@ -1,4 +1,42 @@
 conference:
+- title: "DispersedLedger: High-Throughput Byzantine Consensus on Variable Bandwidth Networks"
+  authors:
+    - Lei Yang
+    - Seo Jin Park
+    - Mohammad Alizadeh
+    - Sreeram Kannan
+    - David Tse
+  book: "NSDI (forthcoming)"
+  date: "2022"
+
+- title: "Securing Parallel-chain Protocols under Variable Mining Power"
+  authors:
+    - Xuechao Wang
+    - Viswa Virinchi Muppirala
+    - Lei Yang
+    - Sreeram Kannan
+    - Pramod Viswanath
+  book: "CCS (forthcoming)"
+  date: "2021"
+
+- title: "High Throughput Cryptocurrency Routing in Payment Channel Networks"
+  authors:
+    - Vibhaalakshmi Sivaraman
+    - Shaileshh Bojja Venkatakrishnan
+    - Kathleen Ruan
+    - Parimarjan Negi
+    - Lei Yang
+    - Radhika Mittal
+    - Giulia Fanti
+    - Mohammad Alizadeh
+  book: "NSDI"
+  date: "2020"
+  links:
+      - link: "http://news.mit.edu/2020/spider-cryptocurrency-routing-efficiency-0130"
+        text: "MIT News"
+      - text: "Code"
+        link: "https://github.com/spider-pcn" 
+
 - title: "Prism: Scaling Bitcoin by 10,000x"
   authors:
     - Lei Yang
@@ -18,26 +56,6 @@ conference:
     - link: "https://asciinema.org/a/YGz4dIkfKz4DrHLtVIGSfpmly"
       text: "Demo"
 
-- title: "High Throughput Cryptocurrency Routing in Payment Channel Networks"
-  authors:
-    - Vibhaalakshmi Sivaraman
-    - Shaileshh Bojja Venkatakrishnan
-    - Kathleen Ruan
-    - Parimarjan Negi
-    - Lei Yang
-    - Radhika Mittal
-    - Giulia Fanti
-    - Mohammad Alizadeh
-  book: "NSDI 2020"
-  date: "February 2020"
-  links:
-      - link: "http://news.mit.edu/2020/spider-cryptocurrency-routing-efficiency-0130"
-        text: "MIT News"
-      - link: "https://www.computerworld.com/article/3518893/mits-blockchain-based-spider-offers-4x-faster-cryptocurrency-processing.html"
-        text: "Computer World"
-      - text: "Source code"
-        link: "https://github.com/spider-pcn" 
-
 - title: "BackCam: Wireless Computer Vision Using Commodity Devices"
   link: "https://dl.acm.org/citation.cfm?doid=3302506.3310403"
   authors:
@@ -45,8 +63,8 @@ conference:
     - Lei Yang
     - Pengyu Zhang
     - Sachin Katti
-  book: "IPSN 2019"
-  date: "April 2019"
+  book: "IPSN"
+  date: "2019"
   links:
       - link: "https://github.com/cjosephson/backcam"
-        text: "Source code and hardware design"
+        text: "Firmware, FPGA, PCB source"
