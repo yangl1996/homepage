@@ -9,13 +9,12 @@ title = "Homepage"
 I'm a PhD student in Computer Science at the [Networks and Mobile Systems
 Group](http://nms.csail.mit.edu) (<font face="Trebuchet MS"><b><font
 color="#FF0000">N</font><font color="#009900">M</font><font
-color="#3333FF">S</font></b></font>) of MIT's
-[Computer Science & Artificial Intelligence Lab](https://www.csail.mit.edu)
-(CSAIL). My research is focused on computer networks and distributed systems.
+color="#3333FF">S</font></b></font>) of MIT CSAIL.
+My research is focused on computer networks and distributed systems.
 I'm advised by [Prof. Mohammad Alizadeh](https://people.csail.mit.edu/alizadeh/).
 I received my SM from MIT in 2020 and my BS in Computer Science from Peking University in 2018.
 
-I love designing and building software and hardware systems that are robust,
+I love designing and building systems that are robust,
 performant, and easy to use. Previously I've done a bunch of projects in
 wireless networking, such as a [camera](https://github.com/cjosephson/backcam)
 system that runs for over a month on two AA batteries. My current research
@@ -28,6 +27,7 @@ My callsign is KC1NOR.
 
 ### What's New
 
-- Intern at Algorand this summer
-- TA for 6.829 the fall semester
+- This summer, I'm working with [Prof. Yossi Gilad](https://www.cs.huji.ac.il/~yossigi/) as a research intern at [Algorand](https://www.algorand.com).
+- DispersedLedger will appear at NSDI '22.
+- I'm going to TA 6.829 in the upcoming fall semester.
 
