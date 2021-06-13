@@ -15,9 +15,7 @@ I'm advised by [Prof. Mohammad Alizadeh](https://people.csail.mit.edu/alizadeh/)
 I received my SM from MIT in 2020 and my BS in Computer Science from Peking University in 2018.
 
 I love designing and building systems that are robust,
-performant, and easy to use. Previously I've done a bunch of projects in
-wireless networking, such as a [camera](https://github.com/cjosephson/backcam)
-system that runs for over a month on two AA batteries. My current research
+performant, and easy to use. My current research
 focuses on improving the performance of the blockchain. Our implementation of the
 [Prism](https://github.com/yangl1996/prism-rust) protocol can support more than
 70,000 transactions per second. Occasionally, I write about what I do in
@@ -29,5 +27,5 @@ My callsign is KC1NOR.
 
 - This summer, I'm working with [Prof. Yossi Gilad](https://www.cs.huji.ac.il/~yossigi/) as a research intern at [Algorand](https://www.algorand.com).
 - DispersedLedger will appear at NSDI '22.
-- I'm going to TA 6.829 in the upcoming fall semester.
+- I will TA 6.829 in the upcoming fall semester.
 
