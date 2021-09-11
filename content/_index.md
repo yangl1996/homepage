@@ -25,7 +25,6 @@ My callsign is KC1NOR.
 
 ### What's New
 
-- This summer, I'm working with [Prof. Yossi Gilad](https://www.cs.huji.ac.il/~yossigi/) as a research intern at [Algorand](https://www.algorand.com).
-- DispersedLedger will appear at NSDI '22.
-- I will TA 6.829 in the upcoming fall semester.
+- [DispersedLedger](https://github.com/yangl1996/dispersed-ledger) will appear at NSDI '22.
+- I'm TA-ing [6.829](https://web.mit.edu/6.829/www/currentsemester/) this fall semester.
 
