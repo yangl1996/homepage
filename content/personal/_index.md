@@ -6,7 +6,7 @@ weight = 0
 
 ## Personal
 
-[Xinyue Lin](https://xinyue-lin.com) - behavioral economist in training
+[Xinyue Lin](https://xinyue-lin.com) - economist in training
 
 ## Service
 

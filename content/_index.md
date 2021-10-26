@@ -2,9 +2,7 @@
 title = "Homepage"
 +++
 
-## Homepage
-
-### About me
+## About me
 
 I'm a PhD student in Computer Science at the [Networks and Mobile Systems
 Group](http://nms.csail.mit.edu) (<font face="Trebuchet MS"><b><font
@@ -16,14 +14,16 @@ I received my SM from MIT in 2020 and my BS in Computer Science from Peking Univ
 
 I love designing and building systems that are robust,
 performant, and easy to use. My current research
-focuses on improving the performance of the blockchain. Our implementation of the
-[Prism](https://github.com/yangl1996/prism-rust) protocol can support more than
-70,000 transactions per second. Occasionally, I write about what I do in
+focuses on computer network problems in the setting of blockchain.
+Two examples are [Prism](https://github.com/yangl1996/prism-rust), a cryptocurrency
+that supports more than
+80,000 transactions per second, and [DispersedLedger](https://github.com/yangl1996/dispersed-ledger), a method that allows BFT state machine replication protocols to run well
+on variable-bandwidth networks. Occasionally, I write about what I do in
 [my blog](https://blog.leiy.me). When away from the keyboard, I enjoy hiking,
 cycling, sailing and travelling. Plus, I am a licensed amateur radio operator.
 My callsign is KC1NOR.
 
-### What's New
+## What's New
 
 - [DispersedLedger](https://github.com/yangl1996/dispersed-ledger) will appear at NSDI '22.
 - I'm TA-ing [6.829](https://web.mit.edu/6.829/www/currentsemester/) this fall semester.
