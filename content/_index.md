@@ -26,5 +26,3 @@ My callsign is KC1NOR.
 ## What's New
 
 - [DispersedLedger](https://github.com/yangl1996/dispersed-ledger) will appear at NSDI '22.
-- I'm TA-ing [6.829](https://web.mit.edu/6.829/www/currentsemester/) this fall semester.
-
