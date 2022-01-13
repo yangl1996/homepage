@@ -1,4 +1,14 @@
 conference:
+- title: "Securing Proof-of-Stake Nakamoto Consensus Under Bandwidth Constraint"
+  authors:
+    - Joachim Neu
+    - Srivatsan Sridhar
+    - Lei Yang
+    - David Tse
+    - Mohammad Alizadeh
+  book: "Stanford Blockchain Conference"
+  date: "2022"
+
 - title: "DispersedLedger: High-Throughput Byzantine Consensus on Variable Bandwidth Networks"
   authors:
     - Lei Yang
