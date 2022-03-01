@@ -10,7 +10,9 @@ weight = 0
 
 ## Service
 
-- Reviewer: IEEE Transactions on Communications
+- Reviewer
+  - IEEE Transactions on Communications
+  - IEEE Transactions on Dependable and Secure Computing
 
 ## Recent Blog Posts
 
