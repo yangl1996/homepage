@@ -23,7 +23,6 @@ on variable-bandwidth networks. Occasionally, I write about what I do in
 cycling, sailing and travelling. Plus, I am a licensed amateur radio operator.
 My callsign is KC1NOR.
 
-## What's New
+<!-- ## What's New -->
 
-- [DispersedLedger](https://github.com/yangl1996/dispersed-ledger) will appear at NSDI '22.
-- I passed my qualification exam!
+
