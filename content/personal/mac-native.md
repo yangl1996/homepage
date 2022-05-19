@@ -9,6 +9,8 @@ Here is a list of developers that produce truly-native Mac applications.
 
 - [Hog Bay Software](https://www.hogbaysoftware.com)
 - [iA](https://ia.net)
-- [Panic](https://panic.com)
 - [CotEditor Project](https://coteditor.com)
 - [Sketch](https://www.sketch.com)
+- [Panic](https://panic.com)
+- [Shiny Frog](https://bear.app)
+- [Luki Labs](https://www.craft.do)
