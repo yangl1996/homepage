@@ -23,9 +23,8 @@ on variable-bandwidth networks. Occasionally, I write about what I do in
 cycling, sailing and travelling. Plus, I am a licensed amateur radio operator.
 My callsign is KC1NOR.
 
-<!--
 ## What's New
 
-New paper on rateless-coded blockchain transaction broadcasting now [available](https://arxiv.org/abs/2205.01797) on arXiv. Part of the work was done during my internship at Algorand.
--->
+Poster on mitigating the bandwidth bottleneck at the leader server in leader-based
+BFT protocols using erasure codes. Upcoming at CCS 2022.
 

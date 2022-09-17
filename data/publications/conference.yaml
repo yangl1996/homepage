@@ -1,12 +1,20 @@
 conference:
-- title: "Securing Proof-of-Stake Nakamoto Consensus Under Bandwidth Constraint"
+- title: "Poster: Coded Broadcast for Scalable Leader-Based BFT Consensus"
+  authors:
+    - Ioannis Kaklamanis
+    - Lei Yang
+    - Mohammad Alizadeh
+  book: "CCS"
+  date: "2022"
+
+- title: "Longest Chain Consensus Under Bandwidth Constraint"
   authors:
     - Joachim Neu
     - Srivatsan Sridhar
     - Lei Yang
     - David Tse
     - Mohammad Alizadeh
-  book: "Stanford Blockchain Conference"
+  book: "AFT"
   date: "2022"
   links:
       - link: "https://github.com/yangl1996/synclc-sim"
@@ -24,6 +32,8 @@ conference:
   links:
       - link: "https://github.com/yangl1996/dispersed-ledger"
         text: "Code"
+      - link: "https://www.youtube.com/watch?v=z7rC95kCGJ0"
+        text: "Talk"
 
 - title: "Securing Parallel-chain Protocols under Variable Mining Power"
   authors:
