@@ -6,6 +6,9 @@ conference:
     - Mohammad Alizadeh
   book: "CCS"
   date: "2022"
+  links:
+      - link: "/coded-hotstuff.pdf"
+        text: "Preprint"
 
 - title: "Longest Chain Consensus Under Bandwidth Constraint"
   authors:
