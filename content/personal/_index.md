@@ -13,6 +13,7 @@ weight = 0
 - Reviewer
   - IEEE Transactions on Communications
   - IEEE Transactions on Dependable and Secure Computing
+  - Oakland (IEEE S&P)
 
 ## Recent Blog Posts
 

@@ -6,9 +6,6 @@ conference:
     - Mohammad Alizadeh
   book: "CCS"
   date: "2022"
-  links:
-      - link: "/coded-hotstuff.pdf"
-        text: "Preprint"
 
 - title: "Longest Chain Consensus Under Bandwidth Constraint"
   authors:
@@ -33,6 +30,8 @@ conference:
   book: "NSDI"
   date: "2022"
   links:
+      - link: "https://www.usenix.org/system/files/nsdi22-paper-yang_lei.pdf"
+        text: "PDF"
       - link: "https://github.com/yangl1996/dispersed-ledger"
         text: "Code"
       - link: "https://www.youtube.com/watch?v=z7rC95kCGJ0"
@@ -64,6 +63,8 @@ conference:
   book: "NSDI"
   date: "2020"
   links:
+      - link: "https://www.usenix.org/system/files/nsdi20-paper-sivaraman.pdf"
+        text: "PDF"
       - link: "http://news.mit.edu/2020/spider-cryptocurrency-routing-efficiency-0130"
         text: "MIT News"
       - text: "Code"
