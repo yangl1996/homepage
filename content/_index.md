@@ -28,6 +28,3 @@ My callsign is KC1NOR.
 [Poster](https://dl.acm.org/doi/pdf/10.1145/3548606.3563494) at CCS 2022 on mitigating the bandwidth bottleneck at the leader server in
 leader-based BFT protocols using erasure codes. Working on a full implementation.
 
-## Contact
-
-Email me to establish contact on [Signal](https://www.signal.org).

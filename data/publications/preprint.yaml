@@ -1,0 +1,34 @@
+preprint:
+- title: "Coded Transaction Broadcasting for High-throughput Blockchains"
+  authors:
+    - Lei Yang
+    - Yossi Gilad
+    - Mohammad Alizadeh
+  date: "2022"
+
+- title: "Light Clients for Lazy Blockchains"
+  authors:
+    - Ertem Nusret Tas
+    - Dionysis Zindros
+    - Lei Yang
+    - David Tse
+  date: "2022"
+
+- title: "Prism: Scaling Bitcoin by 10,000x"
+  authors:
+    - Lei Yang
+    - Xuechao Wang
+    - Vivek Bagaria
+    - Gerui Wang
+    - Mohammad Alizadeh
+    - David Tse
+    - Giulia Fanti
+    - Pramod Viswanath
+  date: "2020"
+  links:
+    - link: "https://github.com/yangl1996/prism-rust"
+      text: "Code"
+    - link: "https://www.youtube.com/watch?v=gTJyDtuWvUQ"
+      text: "Talk (Stanford Blockchain Conference 2020)"
+    - link: "https://asciinema.org/a/YGz4dIkfKz4DrHLtVIGSfpmly"
+      text: "Demo"
