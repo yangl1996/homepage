@@ -4,7 +4,7 @@ title = "Languages"
 
 ## Languages
 
-![](./plane.jpg)
+![](./plane.png)
 
 ### Want to try
 
