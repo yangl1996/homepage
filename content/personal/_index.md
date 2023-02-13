@@ -13,7 +13,8 @@ weight = 0
 - Reviewer
   - IEEE Transactions on Communications
   - IEEE Transactions on Dependable and Secure Computing
-  - Oakland (IEEE S&P)
+  - IEEE Symposium on Security and Privacy (S&P/Oakland)
+  - IEEE International Symposium on Information Theory (ISIT)
 
 ## Recent Blog Posts
 
