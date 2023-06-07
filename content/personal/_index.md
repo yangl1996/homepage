@@ -8,14 +8,6 @@ weight = 0
 
 [Xinyue Lin](https://xylin.net) - economist in training
 
-## Service
-
-- Reviewer
-  - IEEE Transactions on Communications
-  - IEEE Transactions on Dependable and Secure Computing
-  - IEEE Symposium on Security and Privacy (S&P/Oakland)
-  - IEEE International Symposium on Information Theory (ISIT)
-
 ## Recent Blog Posts
 
 <div id="blog_posts">
