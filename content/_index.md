@@ -18,7 +18,9 @@ focuses on computer network problems in the setting of blockchain.
 Two examples are [Prism](https://github.com/yangl1996/prism-rust), a cryptocurrency
 that supports more than
 80,000 transactions per second, and [DispersedLedger](https://github.com/yangl1996/dispersed-ledger), a method that allows BFT state machine replication protocols to run well
-on variable-bandwidth networks. Occasionally, I write about what I do in
+on variable-bandwidth networks. My research has been supported by Ethereum Foundation.
+
+Occasionally, I write about what I do in
 [my blog](https://blog.leiy.me). When away from the keyboard, I enjoy hiking,
 cycling, sailing and travelling. Plus, I am a licensed amateur radio operator.
 My callsign is KC1NOR.
