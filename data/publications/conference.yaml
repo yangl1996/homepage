@@ -1,4 +1,13 @@
 conference:
+- title: "Optimal Flexible Consensus and its Application to Ethereum"
+  authors:
+    - Joachim Neu 
+    - Srivatsan Sridhar 
+    - Lei Yang
+    - David Tse
+  book: "IEEE S&P"
+  date: "2024"
+
 - title: "Poster: Coded Broadcast for Scalable Leader-Based BFT Consensus"
   authors:
     - Ioannis Kaklamanis

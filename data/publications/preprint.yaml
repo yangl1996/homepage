@@ -1,12 +1,4 @@
 preprint:
-- title: "Optimal Flexible Consensus and its Application to Ethereum"
-  authors:
-    - Joachim Neu 
-    - Srivatsan Sridhar 
-    - Lei Yang
-    - David Tse
-  date: "2023"
-
 - title: "Coded Transaction Broadcasting for High-throughput Blockchains"
   authors:
     - Lei Yang

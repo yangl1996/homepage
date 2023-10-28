@@ -24,9 +24,6 @@ Occasionally, I write about what I do in
 cycling, sailing and travelling. Plus, I am a licensed amateur radio operator.
 My callsign is KC1NOR.
 
-<!--
 ## What's New
 
-[Poster](https://dl.acm.org/doi/pdf/10.1145/3548606.3563494) at CCS 2022 on mitigating the bandwidth bottleneck at the leader server in
-leader-based BFT protocols using erasure codes. Working on a full implementation.
--->
+Optimal flexible consensus (joint work with Srivatsan Sridhar, Joachim Neu, and David Tse) will appear at IEEE S&P 2024.
