@@ -1,4 +1,13 @@
 conference:
+- title: "Light Clients for Lazy Blockchains"
+  authors:
+    - Ertem Nusret Tas
+    - Dionysis Zindros
+    - Lei Yang
+    - David Tse
+  book: "FC"
+  date: "2024"
+
 - title: "Optimal Flexible Consensus and its Application to Ethereum"
   authors:
     - Joachim Neu 

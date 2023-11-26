@@ -6,14 +6,6 @@ preprint:
     - Mohammad Alizadeh
   date: "2022"
 
-- title: "Light Clients for Lazy Blockchains"
-  authors:
-    - Ertem Nusret Tas
-    - Dionysis Zindros
-    - Lei Yang
-    - David Tse
-  date: "2022"
-
 - title: "Prism: Scaling Bitcoin by 10,000x"
   authors:
     - Lei Yang

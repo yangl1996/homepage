@@ -27,3 +27,5 @@ My callsign is KC1NOR.
 ## What's New
 
 Optimal flexible consensus (joint work with Srivatsan Sridhar, Joachim Neu, and David Tse) will appear at IEEE S&P 2024.
+
+Light client for lazy blockchains (joint work with Ertem Nusret Tas, Dionysis Zindros, and David Tse) will appear at FC 2024.
