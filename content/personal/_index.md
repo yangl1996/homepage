@@ -51,6 +51,12 @@ function loadPosts() {
 loadPosts()
 </script>
 
+## `cat /dev/urandom`
+
+Is it a missed opportunity for the second avenue subway to not have express tracks?
+
+Yes it is.
+
 ## Misc
 
 Random stuff I created. Enjoy!
