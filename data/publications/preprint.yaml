@@ -1,10 +1,13 @@
 preprint:
-- title: "Coded Transaction Broadcasting for High-throughput Blockchains"
+- title: "Practical Rateless Set Reconciliation"
   authors:
     - Lei Yang
     - Yossi Gilad
     - Mohammad Alizadeh
-  date: "2022"
+  date: "2024"
+  links:
+    - link: "https://leiy.me/riblt.pdf"
+      text: "PDF"
 
 - title: "Prism: Scaling Bitcoin by 10,000x"
   authors:
