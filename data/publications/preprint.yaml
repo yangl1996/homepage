@@ -6,8 +6,10 @@ preprint:
     - Mohammad Alizadeh
   date: "2024"
   links:
-    - link: "https://leiy.me/riblt.pdf"
+    - link: "https://arxiv.org/pdf/2402.02668.pdf"
       text: "PDF"
+    - link: "https://github.com/yangl1996/riblt"
+      text: "Code"
 
 - title: "Prism: Scaling Bitcoin by 10,000x"
   authors:
