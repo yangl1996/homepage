@@ -34,4 +34,4 @@ I am a licensed amateur radio operator.  My callsign is KC1NOR.
 
 Optimal flexible consensus (joint work with Srivatsan Sridhar, Joachim Neu, and David Tse) will appear at IEEE S&P 2024.
 
-Light client for lazy blockchains (joint work with Ertem Nusret Tas, Dionysis Zindros, and David Tse) will appear at FC 2024.
+Light client for lazy blockchains (joint work with Ertem Nusret Tas, Dionysis Zindros, and David Tse) appeared at FC 2024.
