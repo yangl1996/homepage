@@ -5,7 +5,7 @@ conference:
     - Yossi Gilad
     - Mohammad Alizadeh
   book: "SIGCOMM"
-  date: "2024
+  date: "2024"
 
 - title: "Light Clients for Lazy Blockchains"
   authors:
