@@ -30,8 +30,10 @@ I am a licensed amateur radio operator.  My callsign is KC1NOR.
 
 ## What's New
 
-[Preprint](https://arxiv.org/pdf/2402.02668.pdf) and [code](https://github.com/yangl1996/riblt) for Practical Rateless Set Reconciliation (joint work with Yossi Gilad and Mohammad Alizadeh) are available.
+Practical Rateless Set Reconciliation (joint work with Yossi Gilad and Mohammad
+Alizadeh) will appear in SIGCOMM 2024.
+[Preprint](https://arxiv.org/pdf/2402.02668.pdf) and
+[code](https://github.com/yangl1996/riblt) are available.
 
 Optimal flexible consensus (joint work with Srivatsan Sridhar, Joachim Neu, and David Tse) will appear at IEEE S&P 2024.
 
-Light client for lazy blockchains (joint work with Ertem Nusret Tas, Dionysis Zindros, and David Tse) appeared at FC 2024.
