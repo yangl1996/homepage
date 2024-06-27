@@ -4,7 +4,7 @@ title = "Homepage"
 
 ## About me
 
-I am a cofounder and the CTO of Mega Labs, a start-up that is building the
+I am a cofounder and the CTO of [Mega Labs](https://megaeth.systems), a start-up that is building MegaETH, the
 first Real-Time Blockchain. I recently finished my PhD in Computer Science at
 MIT, advised by [Mohammad Alizadeh](https://people.csail.mit.edu/alizadeh/). I
 was part of the [Networks and Mobile Systems Group](http://nms.csail.mit.edu)
