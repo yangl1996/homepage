@@ -6,6 +6,11 @@ conference:
     - Mohammad Alizadeh
   book: "SIGCOMM"
   date: "2024"
+  links:
+    - link: "https://arxiv.org/pdf/2402.02668.pdf"
+      text: "PDF"
+    - link: "https://github.com/yangl1996/riblt"
+      text: "Code"
 
 - title: "Light Clients for Lazy Blockchains"
   authors:
@@ -15,6 +20,9 @@ conference:
     - Dionysis Zindros
   book: "FC"
   date: "2024"
+  links:
+    - link: "https://eprint.iacr.org/2022/384.pdf"
+      text: "PDF"
 
 - title: "Optimal Flexible Consensus and its Application to Ethereum"
   authors:
@@ -24,6 +32,11 @@ conference:
     - David Tse
   book: "IEEE S&P"
   date: "2024"
+  links:
+    - link: "https://eprint.iacr.org/2023/1211.pdf"
+      text: "PDF"
+    - link: "https://github.com/yangl1996/flexible-eth"
+      text: "Code"
 
 - title: "Poster: Coded Broadcast for Scalable Leader-Based BFT Consensus"
   authors:
@@ -32,6 +45,9 @@ conference:
     - Mohammad Alizadeh
   book: "CCS"
   date: "2022"
+  links:
+    - link: "https://dl.acm.org/doi/pdf/10.1145/3548606.3563494"
+      text: "PDF"
 
 - title: "Longest Chain Consensus Under Bandwidth Constraint"
   authors:
@@ -43,6 +59,8 @@ conference:
   book: "AFT"
   date: "2022"
   links:
+      - link: "https://eprint.iacr.org/2021/1545.pdf"
+        text: "PDF"
       - link: "https://github.com/yangl1996/synclc-sim"
         text: "Code"
 
@@ -73,6 +91,8 @@ conference:
   book: "CCS"
   date: "2021"
   links:
+      - link: "https://dl.acm.org/doi/pdf/10.1145/3460120.3485254"
+        text: "PDF"
       - link: "https://github.com/yangl1996/blocksim"
         text: "Code"
 
@@ -91,8 +111,6 @@ conference:
   links:
       - link: "https://www.usenix.org/system/files/nsdi20-paper-sivaraman.pdf"
         text: "PDF"
-      - link: "http://news.mit.edu/2020/spider-cryptocurrency-routing-efficiency-0130"
-        text: "MIT News"
       - text: "Code"
         link: "https://github.com/spider-pcn" 
 
