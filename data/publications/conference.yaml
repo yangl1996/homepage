@@ -11,6 +11,8 @@ conference:
       text: "PDF"
     - link: "https://github.com/yangl1996/riblt"
       text: "Code"
+    - link: "https://leiy.me/rateless-iblt-new-analysis-wip.pdf"
+      text: "New analysis"
 
 - title: "Light Clients for Lazy Blockchains"
   authors:
