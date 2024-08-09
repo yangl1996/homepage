@@ -32,7 +32,7 @@ I am a licensed amateur radio operator.  My callsign is KC1NOR.
 ## What's New
 
 Practical Rateless Set Reconciliation (joint work with Yossi Gilad and Mohammad
-Alizadeh) will appear in SIGCOMM 2024.
-[Preprint](https://arxiv.org/pdf/2402.02668.pdf) and
+Alizadeh) appeared in SIGCOMM 2024.
+[Full text](https://doi.org/10.1145/3651890.3672219) and
 [code](https://github.com/yangl1996/riblt) are available.
 

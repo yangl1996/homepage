@@ -7,7 +7,7 @@ conference:
   book: "SIGCOMM"
   date: "2024"
   links:
-    - link: "https://arxiv.org/pdf/2402.02668.pdf"
+    - link: "https://doi.org/10.1145/3651890.3672219"
       text: "PDF"
     - link: "https://github.com/yangl1996/riblt"
       text: "Code"
