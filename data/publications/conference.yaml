@@ -4,7 +4,7 @@ conference:
     - Lei Yang
     - Yossi Gilad
     - Mohammad Alizadeh
-  book: "SIGCOMM"
+  book: "ACM SIGCOMM"
   date: "2024"
   links:
     - link: "https://doi.org/10.1145/3651890.3672219"
@@ -20,7 +20,7 @@ conference:
     - David Tse
     - Lei Yang
     - Dionysis Zindros
-  book: "FC"
+  book: "Financial Cryptography"
   date: "2024"
   links:
     - link: "https://eprint.iacr.org/2022/384.pdf"
@@ -32,7 +32,7 @@ conference:
     - Srivatsan Sridhar 
     - Lei Yang
     - David Tse
-  book: "S&P"
+  book: "IEEE SP"
   date: "2024"
   links:
     - link: "https://eprint.iacr.org/2023/1211.pdf"
@@ -45,7 +45,7 @@ conference:
     - Ioannis Kaklamanis
     - Lei Yang
     - Mohammad Alizadeh
-  book: "CCS"
+  book: "ACM CCS"
   date: "2022"
   links:
     - link: "https://dl.acm.org/doi/pdf/10.1145/3548606.3563494"
@@ -58,7 +58,7 @@ conference:
     - Lei Yang
     - David Tse
     - Mohammad Alizadeh
-  book: "AFT"
+  book: "ACM AFT"
   date: "2022"
   links:
       - link: "https://eprint.iacr.org/2021/1545.pdf"
@@ -73,7 +73,7 @@ conference:
     - Mohammad Alizadeh
     - Sreeram Kannan
     - David Tse
-  book: "NSDI"
+  book: "Usenix NSDI"
   date: "2022"
   links:
       - link: "https://www.usenix.org/system/files/nsdi22-paper-yang_lei.pdf"
@@ -90,7 +90,7 @@ conference:
     - Lei Yang
     - Sreeram Kannan
     - Pramod Viswanath
-  book: "CCS"
+  book: "ACM CCS"
   date: "2021"
   links:
       - link: "https://dl.acm.org/doi/pdf/10.1145/3460120.3485254"
@@ -108,7 +108,7 @@ conference:
     - Radhika Mittal
     - Giulia Fanti
     - Mohammad Alizadeh
-  book: "NSDI"
+  book: "Usenix NSDI"
   date: "2020"
   links:
       - link: "https://www.usenix.org/system/files/nsdi20-paper-sivaraman.pdf"
@@ -123,7 +123,7 @@ conference:
     - Lei Yang
     - Pengyu Zhang
     - Sachin Katti
-  book: "IPSN"
+  book: "ACM/IEEE IPSN"
   date: "2019"
   links:
       - link: "https://github.com/cjosephson/backcam"
