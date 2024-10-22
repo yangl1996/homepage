@@ -2,6 +2,8 @@
 title="Block time simulation"
 +++
 
+The simulation is about 10 MB in size and might take a while to load.
+
 <div>
 <iframe name="game" src="/blocktime-demo/main.html?network=100&blocktime=10" width="330" height="360"></iframe>
 </div>
@@ -18,6 +20,6 @@ Network propagation time
 <output name="networkDisplay">100</output> ms
 </div>
 <div>
-    <button type="button" onclick="var bts=document.getElementsByName('blocktime')[0]; bts.value=10; var nds=document.getElementsByName('network')[0]; nds.value=100; btd=document.getElementsByName('blocktimeDisplay')[0]; btd.value=10; ntd=document.getElementsByName('networkDisplay')[0]; ntd.value=100;">Reset</button>
+    <button type="button" onclick="var bts=document.getElementsByName('blocktime')[0]; bts.value=10; var nds=document.getElementsByName('network')[0]; nds.value=100; btd=document.getElementsByName('blocktimeDisplay')[0]; btd.value=10; ntd=document.getElementsByName('networkDisplay')[0]; ntd.value=100; var ifr=document.getElementsByName('game')[0]; ifr.src='/blocktime-demo/main.html?network=100&blocktime=10';">Reset</button>
     <button type="button" onclick="var ifr=document.getElementsByName('game')[0]; var bts=document.getElementsByName('blocktime')[0]; var nds=document.getElementsByName('network')[0]; ifr.src='/blocktime-demo/main.html?network='+nds.value+'&blocktime='+bts.value;">Apply</button>
 </div>
