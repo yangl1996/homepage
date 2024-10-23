@@ -2,6 +2,8 @@
 title="Block time simulation"
 +++
 
+# Block Time Simulator
+
 The simulation is about 10 MB in size and might take a while to load.
 
 <div>
@@ -16,7 +18,7 @@ Block time
 <div>
 Network propagation time
 </br>
-<input type="range" min="0" max="2000" value="100" id="network" name="network" oninput="this.nextElementSibling.value = this.value">
+<input type="range" min="0" max="400" value="100" id="network" name="network" oninput="this.nextElementSibling.value = this.value">
 <output name="networkDisplay">100</output> ms
 </div>
 <div>
