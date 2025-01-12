@@ -6,6 +6,8 @@ weight = 0
 
 ## Personal
 
+![](/receipt.jpg)
+
 [Xinyue Lin](https://xylin.net) - economist in training
 
 ## Recent Blog Posts
