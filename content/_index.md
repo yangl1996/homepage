@@ -29,10 +29,4 @@ Occasionally, I write about what I do in [my blog](https://blog.leiy.me). When
 away from the keyboard, I enjoy hiking, cycling, sailing and travelling. Plus,
 I am a licensed amateur radio operator.  My callsign is KC1NOR.
 
-## What's New
-
-Practical Rateless Set Reconciliation (joint work with Yossi Gilad and Mohammad
-Alizadeh) appeared in SIGCOMM 2024.
-[Full text](https://doi.org/10.1145/3651890.3672219) and
-[code](https://github.com/yangl1996/riblt) are available.
 
