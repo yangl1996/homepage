@@ -1,4 +1,16 @@
 conference:
+- title: "Permissionless Verifiable Information Dispersal (Data Availability for Bitcoin Rollups)"
+  authors:
+    - Ben Fisch
+    - Arthur Lazzaretti
+    - Zeyu Liu
+    - Lei Yang
+  book: "IEEE SP"
+  date: "2025"
+  links:
+    - link: "https://eprint.iacr.org/2024/1299.pdf"
+      text: "PDF"
+
 - title: "Practical Rateless Set Reconciliation"
   authors:
     - Lei Yang
