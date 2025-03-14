@@ -29,4 +29,7 @@ Occasionally, I write about what I do in [my blog](https://blog.leiy.me). When
 away from the keyboard, I enjoy hiking, cycling, sailing and travelling. Plus,
 I am a licensed amateur radio operator.  My callsign is KC1NOR.
 
+## What's New
+
+Permissionless Verifiable Information Dispersal (joint work with Zeyu Liu, Arthur Lazzaretti, and Ben Fisch) got into Oakland. 
 
