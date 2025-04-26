@@ -8,7 +8,7 @@ weight = 0
 
 ![](/receipt.jpg)
 
-[Xinyue Lin](https://xylin.net) - economist in training
+[Xinyue Lin](https://xylin.net) - economist ~~in training~~
 
 ## Recent Blog Posts
 
