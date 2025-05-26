@@ -31,5 +31,5 @@ I am a licensed amateur radio operator.  My callsign is KC1NOR.
 
 ## What's New
 
-Permissionless Verifiable Information Dispersal (joint work with Zeyu Liu, Arthur Lazzaretti, and Ben Fisch) will appear in IEEE SP. 
+Permissionless Verifiable Information Dispersal (joint work with Zeyu Liu, Arthur Lazzaretti, and Ben Fisch) appeared in IEEE SP 2025. 
 
