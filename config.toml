@@ -13,8 +13,8 @@ goatcounter = "leiy"
 PGPFingerprint = "2D3EB894C40AE453"
 PGPPubkeyLink = "/lei-pgp-pubkey.txt"
 shortbio = "Ph.D. in Computer Science"
-officeAddress = "32-G918"
-officeMapLink = "https://www.csail.mit.edu/sites/default/files/resources/maps/9G/G918.gif"
+officeAddress = "Cambridge, MA"
+officeMapLink = "https://www.openstreetmap.org/relation/1933745"
 
 [markup]
   [markup.highlight]
