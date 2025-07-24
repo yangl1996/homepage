@@ -14,8 +14,8 @@ CSAIL.  My thesis is on efficient consensus and synchronization for distributed
 systems. I received my SM from MIT in 2020 and my BS in Computer Science from
 Peking University in 2018.
 
-I love designing and building systems that are robust, performant, and easy to
-use. My current research focuses on computer network problems in the setting of
+I love designing and building systems with robust theoretical foundations.
+My current research focuses on computer network problems in the setting of
 blockchains. Some examples are 
 [DispersedLedger](https://github.com/yangl1996/dispersed-ledger), a framework
 for building BFT state machine replication protocols that run fast on 
