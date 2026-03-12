@@ -4,11 +4,12 @@ title = "Homepage"
 
 ## About me
 
-I am a cofounder and the CTO of [MegaLabs](https://megaeth.systems), a start-up that is building MegaETH, the
-first Real-Time Blockchain. I finished my PhD in Computer Science at
-MIT in 2024, advised by [Mohammad Alizadeh](https://people.csail.mit.edu/alizadeh/). I
-was part of the [Networks and Mobile Systems Group](http://nms.csail.mit.edu)
-(<font face="Trebuchet MS"><b><font color="#FF0000">N</font><font
+I am a cofounder of [Mega Labs](https://megaeth.systems), a start-up that is
+building MegaETH, the first Real-Time Blockchain. I received my PhD in Computer
+Science from MIT in 2024, where I spent 6 years being advised by [Mohammad
+Alizadeh](https://people.csail.mit.edu/alizadeh/). I was a part of the
+[Networks and Mobile Systems Group](http://nms.csail.mit.edu) (<font
+face="Trebuchet MS"><b><font color="#FF0000">N</font><font
 color="#009900">M</font><font color="#3333FF">S</font></b></font>) of MIT
 CSAIL.  My thesis is on efficient consensus and synchronization for distributed
 systems. I received my SM from MIT in 2020 and my BS in Computer Science from
